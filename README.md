@@ -8,7 +8,7 @@ The buttons are connected between 5V and the digital pins and use (INPUT_PULLUP)
 
 #  Circuit Diagram
 
-![Circuit Diagram](led_buttons-Arduino Project.png)
+![Circuit Diagram](led_buttons-Arduino.png)
 
 
 # Tinkercad Simulation Link
